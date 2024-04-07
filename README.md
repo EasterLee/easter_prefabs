@@ -3,3 +3,4 @@ Things that I made
 - Tesla Particle
 - Map Player Model
 - Ammo Item
+- Ring Particle
