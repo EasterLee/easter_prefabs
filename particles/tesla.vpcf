@@ -69,57 +69,58 @@
 				}
 			}
 			m_bRunOnce = true
+			m_nChildGroupID = 0
 		},
 	]
 	m_Children = 
 	[
 		{
-			m_ChildRef = resource:"particles/tesla_single.vpcf"
+			m_ChildRef = resource:"particles/tesla_single_lightning.vpcf"
 		},
 		{
-			m_ChildRef = resource:"particles/tesla_single.vpcf"
+			m_ChildRef = resource:"particles/tesla_single_lightning.vpcf"
 		},
 		{
-			m_ChildRef = resource:"particles/tesla_single.vpcf"
+			m_ChildRef = resource:"particles/tesla_single_lightning.vpcf"
 		},
 		{
-			m_ChildRef = resource:"particles/tesla_single.vpcf"
+			m_ChildRef = resource:"particles/tesla_single_lightning.vpcf"
 		},
 		{
-			m_ChildRef = resource:"particles/tesla_single.vpcf"
+			m_ChildRef = resource:"particles/tesla_single_lightning.vpcf"
 		},
 		{
-			m_ChildRef = resource:"particles/tesla_single.vpcf"
+			m_ChildRef = resource:"particles/tesla_single_lightning.vpcf"
 		},
 		{
-			m_ChildRef = resource:"particles/tesla_single.vpcf"
+			m_ChildRef = resource:"particles/tesla_single_lightning.vpcf"
 		},
 		{
-			m_ChildRef = resource:"particles/tesla_single.vpcf"
+			m_ChildRef = resource:"particles/tesla_single_lightning.vpcf"
 		},
 		{
-			m_ChildRef = resource:"particles/tesla_single.vpcf"
+			m_ChildRef = resource:"particles/tesla_single_lightning.vpcf"
 		},
 		{
-			m_ChildRef = resource:"particles/tesla_single.vpcf"
+			m_ChildRef = resource:"particles/tesla_single_lightning.vpcf"
 		},
 		{
-			m_ChildRef = resource:"particles/tesla_single.vpcf"
+			m_ChildRef = resource:"particles/tesla_single_lightning.vpcf"
 		},
 		{
-			m_ChildRef = resource:"particles/tesla_single.vpcf"
+			m_ChildRef = resource:"particles/tesla_single_lightning.vpcf"
 		},
 		{
-			m_ChildRef = resource:"particles/tesla_single.vpcf"
+			m_ChildRef = resource:"particles/tesla_single_lightning.vpcf"
 		},
 		{
-			m_ChildRef = resource:"particles/tesla_single.vpcf"
+			m_ChildRef = resource:"particles/tesla_single_lightning.vpcf"
 		},
 		{
-			m_ChildRef = resource:"particles/tesla_single.vpcf"
+			m_ChildRef = resource:"particles/tesla_single_lightning.vpcf"
 		},
 		{
-			m_ChildRef = resource:"particles/tesla_single.vpcf"
+			m_ChildRef = resource:"particles/tesla_single_lightning.vpcf"
 		},
 	]
 }
