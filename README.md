@@ -4,3 +4,4 @@ Things that I made
 - Map Player Model
 - Ammo Item
 - Ring Particle
+- Boss HP Bar
