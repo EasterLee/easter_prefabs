@@ -5,3 +5,4 @@ Things that I made
 - Ammo Item
 - Ring Particle
 - Boss HP Bar
+- Knife Stripper
