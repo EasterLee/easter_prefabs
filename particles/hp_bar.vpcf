@@ -204,7 +204,7 @@
 					m_vDomainMaxs = [ 0.0, 0.0 ]
 				}
 			}
-			m_nOutputField = 9
+			m_nOutputField = 38
 		},
 		{
 			_class = "C_OP_EndCapTimedDecay"
@@ -280,6 +280,8 @@
 				}
 			}
 			m_bOnlyRenderInEffecsGameOverlay = true
+			m_nAnimationType = "ANIMATION_TYPE_MANUAL_FRAMES"
+			m_bAnimateInFPS = true
 		},
 	]
 }
