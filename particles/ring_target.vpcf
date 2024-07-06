@@ -1,4 +1,4 @@
-<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf59:version{6cf97bfa-52a0-441a-87f0-856fb7aaa129} -->
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf60:version{cd92a366-0b0d-4811-a18d-f6d472d19709} -->
 {
 	_class = "CParticleSystemDefinition"
 	m_nBehaviorVersion = 12
@@ -277,6 +277,9 @@
 		{
 			_class = "C_OP_FadeInSimple"
 			m_flFadeInTime = 0.5
+		},
+		{
+			_class = "C_OP_SetCPtoVector"
 		},
 		{
 			_class = "C_OP_SetVectorAttributeToVectorExpression"
@@ -772,7 +775,7 @@
 				m_vRandomMax = [ 0.0, 0.0, 0.0 ]
 			}
 			m_nOutputField = 0
-			m_nSetMethod = "PARTICLE_SET_ADD_TO_INITIAL_VALUE"
+			m_nSetMethod = "PARTICLE_SET_ADD_TO_CURRENT_VALUE"
 		},
 		{
 			_class = "C_OP_LerpEndCapScalar"
