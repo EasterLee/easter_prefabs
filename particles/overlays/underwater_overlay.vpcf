@@ -1030,6 +1030,7 @@
 				}
 			}
 			m_bDisableZBuffering = true
+			m_nFogType = "PARTICLE_FOG_DISABLED"
 		},
 	]
 }
