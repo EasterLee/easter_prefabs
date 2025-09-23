@@ -1,10 +1,9 @@
-<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf61:version{39d3ce1d-9442-4407-9b78-8317145b1732} -->
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:vpcf63:version{a6e6a69e-52d3-4527-8b9c-ff3bb91aca3e} -->
 {
 	_class = "CParticleSystemDefinition"
 	m_nBehaviorVersion = 12
 	m_flConstantRadius = 16.0
 	m_flConstantLifespan = 2.0
-	m_pszCullReplacementName = resource:"particles/water.vpcf"
 	m_nMaxParticles = 2
 	m_bInfiniteBounds = true
 	m_controlPointConfigurations = 
@@ -755,12 +754,13 @@
 			{
 				m_nType = "PF_TYPE_LITERAL"
 				m_nMapType = "PF_MAP_TYPE_DIRECT"
-				m_flLiteralValue = 1.0
+				m_flLiteralValue = 3.0
 				m_NamedValue = ""
 				m_nControlPoint = 0
 				m_nScalarAttribute = 3
 				m_nVectorAttribute = 6
 				m_nVectorComponent = 0
+				m_bReverseOrder = false
 				m_flRandomMin = 0.0
 				m_flRandomMax = 1.0
 				m_bHasRandomSignFlip = false
@@ -796,6 +796,7 @@
 				m_flNotchedRangeMax = 1.0
 				m_flNotchedOutputOutside = 0.0
 				m_flNotchedOutputInside = 1.0
+				m_nRoundType = "PF_ROUND_TYPE_NEAREST"
 				m_nBiasType = "PF_BIAS_TYPE_STANDARD"
 				m_flBiasParameter = 0.0
 				m_Curve = 
