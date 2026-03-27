@@ -16,8 +16,6 @@ Things that I made
 - Underwater Overlay
 ![shot_0010](https://github.com/user-attachments/assets/7a490c18-f82b-4b11-b27d-db5d06920ce7)
 - Clearer Screen Overlay
-![shot_0009](https://github.com/user-attachments/assets/5096b21f-0120-474e-afc8-acf3b1cdf490)
-![shot_0008](https://github.com/user-attachments/assets/5d10b9dc-53cb-4fe8-b64c-70b1e497e117)
 - Particle Flashlight
 ![image](https://github.com/user-attachments/assets/4d667732-6d30-40e9-8468-515ccb06a0b4)
 - Model Particle
